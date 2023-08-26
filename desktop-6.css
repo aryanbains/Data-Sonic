@@ -1,0 +1,957 @@
+.pexels-karolina-grabowska-4386-icon {
+  position: absolute;
+  top: 3552px;
+  left: 1049px;
+  border-radius: 307px 0 0 98px;
+  width: 728px;
+  height: 775px;
+  object-fit: cover;
+}
+.desktop-6-child {
+  position: absolute;
+  top: calc(50% - 3235px);
+  left: calc(50% - 900px);
+  border-radius: var(--br-7xs);
+  width: 1863px;
+  height: 205px;
+}
+.home {
+  height: 1.71%;
+  top: 1.68%;
+  left: calc(50% + 76px);
+  font-size: var(--font-size-12xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  width: 94px;
+}
+.ai-chat,
+.ai-healthcare,
+.dashboard,
+.home,
+.login-sign {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  color: var(--color-whitesmoke-100);
+  text-align: center;
+  display: inline-block;
+}
+.ai-healthcare {
+  height: 3.29%;
+  top: 0.42%;
+  left: calc(50% - 915px);
+  font-size: 113px;
+  font-family: var(--font-shadows-into-light);
+  width: 782px;
+}
+.ai-chat,
+.dashboard,
+.login-sign {
+  height: 1.64%;
+  top: 1.68%;
+  left: calc(50% + 410px);
+  font-size: var(--font-size-12xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  width: 116px;
+}
+.dashboard,
+.login-sign {
+  height: 1.71%;
+  top: 1.66%;
+  left: calc(50% + 574px);
+  width: 234px;
+}
+.dashboard {
+  top: 1.68%;
+  left: calc(50% + 217px);
+  width: 176px;
+}
+.help-your-health,
+.problems,
+.we-are-ready {
+  position: absolute;
+  top: 335px;
+  left: 93px;
+  line-height: 1px;
+  display: inline-block;
+  width: 574px;
+  height: 96px;
+}
+.help-your-health,
+.problems {
+  top: 490px;
+  left: 99px;
+  width: 361px;
+  height: 68px;
+}
+.help-your-health {
+  top: 412px;
+  left: 97px;
+  background: linear-gradient(90.29deg, #50db77, #007299, #003cd7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 593px;
+  height: 71px;
+}
+.in-times-like,
+.try-free-consultation {
+  color: var(--color-black);
+  display: inline-block;
+}
+.in-times-like {
+  position: absolute;
+  top: 565px;
+  left: 99px;
+  font-size: var(--font-size-15xl);
+  line-height: 48px;
+  width: 566px;
+  height: 366px;
+}
+.try-free-consultation {
+  position: relative;
+  font-size: var(--font-size-14xl);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  text-align: center;
+  width: 433px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.try-free-consultation-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 899px;
+  left: 93px;
+  border-radius: var(--br-7xl);
+  background: linear-gradient(
+    -89.91deg,
+    #0023d8,
+    #0a9786,
+    #0b8975 0.01%,
+    #0a9988 1.29%,
+    #04d9d3 53.9%,
+    #01efed 84.15%,
+    #0ff
+  );
+  box-shadow: 0 4.708333492279053px 7.06px rgba(1, 115, 153, 0.2);
+  width: 418px;
+  height: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.desktop-6-inner,
+.desktop-6-item {
+  position: absolute;
+  top: 4950.15px;
+  left: 1303.38px;
+  width: 46.16px;
+  height: 39.21px;
+}
+.desktop-6-inner {
+  top: 4968.94px;
+  left: 879.27px;
+  box-shadow: 0 4.708333492279053px 7.06px rgba(151, 151, 151, 0.08);
+  border-top: 0.8px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 368.85px;
+  height: 0.85px;
+}
+.learn-more-than {
+  margin: 0;
+}
+.build-a-modern-container {
+  position: absolute;
+  height: 0.88%;
+  width: 20.1%;
+  top: 88.42%;
+  left: 5.94%;
+  font-size: 7.53px;
+  line-height: 13.18px;
+  font-family: var(--font-dm-sans);
+  display: inline-block;
+}
+.base {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.base,
+.item,
+.pricing {
+  position: absolute;
+}
+.pricing {
+  width: 69.51%;
+  top: calc(50% + 51px);
+  left: 0;
+  display: inline-block;
+}
+.item {
+  height: 4.25%;
+  top: 87.31%;
+  bottom: 8.45%;
+  left: calc(50% - 415px);
+  width: 243px;
+  overflow: hidden;
+  font-size: 7.53px;
+  font-family: var(--font-dm-sans);
+}
+.copyright-2019 {
+  position: absolute;
+  width: 100.49%;
+  top: calc(50% + 13.67px);
+  left: -1.91%;
+  display: inline-block;
+}
+.bottom {
+  position: absolute;
+  height: 2.55%;
+  width: 21.35%;
+  top: 95.72%;
+  right: 42.92%;
+  bottom: 1.72%;
+  left: 35.73%;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--text-button-semibold-large-size);
+  font-family: var(--font-dm-sans);
+}
+.tutorify {
+  position: absolute;
+  top: 5687px;
+  left: 114px;
+  font-size: 7.53px;
+  font-weight: 600;
+  display: inline-block;
+  width: 173px;
+  height: 25px;
+}
+.icsharp-health-and-safety,
+.vector-icon {
+  position: absolute;
+  top: 126.54px;
+  left: 841.05px;
+  width: 11.3px;
+  height: 11.3px;
+  overflow: hidden;
+}
+.vector-icon {
+  height: 1%;
+  width: 2.71%;
+  top: 0.63%;
+  right: 62.71%;
+  bottom: 98.37%;
+  left: 34.58%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.firefly-health-dashboard-for-h,
+.firefly-secure-data-handling-o {
+  position: absolute;
+  top: 1200px;
+  left: 1457px;
+  border-radius: var(--br-105xl-5);
+  width: 249px;
+  height: 260px;
+  object-fit: cover;
+}
+.firefly-health-dashboard-for-h {
+  top: 1205px;
+  left: 309px;
+  width: 264px;
+  height: 249px;
+}
+.group-child {
+  position: absolute;
+  top: 1061.58px;
+  left: 877.58px;
+  box-shadow: 0 4.708333492279053px 7.06px rgba(151, 151, 151, 0.08);
+  border-top: 0.8px solid var(--color-aliceblue);
+  box-sizing: border-box;
+  width: 105.85px;
+  height: 0.85px;
+}
+.group-item {
+  position: absolute;
+  top: calc(50% - 983.5px);
+  left: calc(50% - 961.5px);
+  width: 1995px;
+  height: 189px;
+}
+.main-services {
+  background: linear-gradient(90.29deg, #45bdbf, #065d4e);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.categories,
+.our-main-services-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  opacity: 0.9;
+}
+.our-main-services-container {
+  width: 1019px;
+  height: 213px;
+}
+.categories {
+  width: 679px;
+}
+.categories-wrapper {
+  position: absolute;
+  top: 78px;
+  left: 169px;
+  width: 679px;
+  height: 135px;
+}
+.our-main-services-parent {
+  position: absolute;
+  top: 12px;
+  left: 508px;
+  width: 1019px;
+  height: 213px;
+  text-align: center;
+  font-size: var(--font-size-71xl);
+}
+.personalized-recommendations {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: calc(50% - 170px);
+  line-height: 33px;
+  display: inline-block;
+  width: 340px;
+  height: 78px;
+}
+.doctor-1-1,
+.personalized-recommendations-wrapper {
+  position: absolute;
+  top: calc(50% - 393.5px);
+  left: calc(50% + 340.5px);
+  width: 340px;
+  height: 78px;
+}
+.doctor-1-1 {
+  top: calc(50% - 327.35px);
+  left: calc(50% - 91.6px);
+  width: 267.74px;
+  height: 263.12px;
+  object-fit: cover;
+}
+.chat-with-ai {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: calc(50% - 229.17px);
+  display: inline-block;
+  width: 458.33px;
+  height: 78px;
+}
+.chat-with-ai-doctor-wrapper,
+.you-can-connect {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 240.37px);
+  width: 458.33px;
+  height: 78px;
+}
+.you-can-connect {
+  top: calc(50% + 70px);
+  left: calc(50% - 179.26px);
+  font-size: var(--headline-xs-desktop-semibold-size);
+  line-height: 137%;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 419.63px;
+  height: 255px;
+}
+.doctor-1-1-parent {
+  position: absolute;
+  top: calc(50% - 697.5px);
+  left: calc(50% - 838.5px);
+  width: 480.74px;
+  height: 650px;
+  text-align: center;
+}
+.health-store,
+.health-store-wrapper {
+  position: absolute;
+  width: 115.74px;
+  height: 26.16px;
+}
+.health-store {
+  top: calc(50% - 13.08px);
+  left: calc(50% - 57.87px);
+  display: inline-block;
+}
+.health-store-wrapper {
+  top: calc(50% - 378.5px);
+  left: calc(50% - 255.5px);
+  text-align: center;
+  font-size: var(--font-size-xs-3);
+  color: var(--base-white);
+}
+.instant-diagnoses {
+  position: absolute;
+  top: calc(50% - 11.82px);
+  left: calc(50% - 67.5px);
+  display: inline-block;
+  width: 135px;
+  height: 23.64px;
+}
+.instant-diagnoses-wrapper {
+  position: absolute;
+  top: calc(50% - 348.5px);
+  left: calc(50% - 133.5px);
+  width: 135px;
+  height: 23.64px;
+  font-size: var(--font-size-xs-3);
+}
+.group-icon,
+.rectangle-icon {
+  position: absolute;
+  left: calc(50% - 291.5px);
+  width: 525px;
+  height: 828px;
+}
+.rectangle-icon {
+  top: calc(50% - 731.5px);
+  border-radius: 7px;
+}
+.group-icon {
+  top: calc(50% + 155.5px);
+}
+.firefly-clip-art-of-doctor-hol {
+  position: absolute;
+  top: calc(50% - 677.5px);
+  left: calc(50% - 148.5px);
+  border-radius: var(--br-105xl-5);
+  width: 249px;
+  height: 249px;
+  object-fit: cover;
+}
+.instant-diagnosis {
+  position: absolute;
+  top: calc(50% - 39px);
+  left: calc(50% - 225px);
+  display: inline-block;
+  width: 450px;
+  height: 78px;
+}
+.instant-diagnosis-wrapper,
+.wellness-tips-wrapper {
+  position: absolute;
+  top: calc(50% - 381.5px);
+  left: calc(50% - 305.5px);
+  width: 450px;
+  height: 78px;
+  text-align: center;
+}
+.wellness-tips-wrapper {
+  top: calc(50% + 538.5px);
+  left: calc(50% - 311.5px);
+}
+.our-ai-doctor {
+  position: absolute;
+  top: calc(50% - 289.5px);
+  left: calc(50% - 248.5px);
+  line-height: 137%;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+  width: 412px;
+  height: 255px;
+}
+.nutritional,
+.our-ai-doctor {
+  font-size: var(--headline-xs-desktop-semibold-size);
+}
+.advice-were-here {
+  font-size: 19.59px;
+}
+.beyond-medical-diagnoses-our {
+  margin-block-start: 0;
+  margin-block-end: 9.42px;
+}
+.beyond-medical-diagnoses-container {
+  position: absolute;
+  top: calc(50% + 630.5px);
+  left: calc(50% - 235.5px);
+  line-height: 137%;
+  color: var(--color-whitesmoke-100);
+  display: inline-block;
+  width: 412px;
+  height: 255px;
+  font-size: 19.59px;
+}
+.health-dashboard-wrapper {
+  position: absolute;
+  top: calc(50% + 536.5px);
+  left: calc(50% - 878.5px);
+  width: 450px;
+  height: 78px;
+  text-align: center;
+}
+.access-a-comprehensive-container {
+  position: absolute;
+  top: calc(50% + 629.5px);
+  left: calc(50% - 809.5px);
+  font-size: var(--headline-xs-desktop-semibold-size);
+  line-height: 137%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 412px;
+  height: 255px;
+}
+.secure-data-handling-wrapper {
+  position: absolute;
+  top: calc(50% + 530.5px);
+  left: calc(50% + 308.5px);
+  width: 450px;
+  height: 78px;
+  text-align: center;
+}
+.our-ai-doctor1,
+.our-ai-doctor2,
+.your-privacy-and-container {
+  position: absolute;
+  top: calc(50% + 618.5px);
+  left: calc(50% + 344.5px);
+  line-height: 137%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 412px;
+  height: 255px;
+  font-size: 19.59px;
+}
+.our-ai-doctor1,
+.our-ai-doctor2 {
+  top: calc(50% - 320.5px);
+  left: calc(50% + 334.5px);
+  color: var(--color-whitesmoke-100);
+}
+.our-ai-doctor2 {
+  top: calc(50% - 300.5px);
+  left: calc(50% + 358.5px);
+}
+.our-ai-doctor3 {
+  top: calc(50% - 302.5px);
+  left: calc(50% + 381.5px);
+  font-size: 19.59px;
+  color: var(--base-white);
+}
+.our-ai-doctor3,
+.our-ai-doctor4,
+.our-ai-doctor5 {
+  position: absolute;
+  line-height: 137%;
+  display: inline-block;
+  width: 412px;
+  height: 255px;
+}
+.our-ai-doctor4 {
+  top: calc(50% - 302.5px);
+  left: calc(50% + 361.5px);
+  font-size: 19.59px;
+  color: var(--color-whitesmoke-100);
+}
+.our-ai-doctor5 {
+  top: calc(50% - 127.5px);
+  left: calc(50% - 206px);
+}
+.our-ai-doctor-is-equipped-with-wrapper {
+  position: absolute;
+  top: calc(50% - 307.5px);
+  left: calc(50% + 340.5px);
+  width: 412px;
+  height: 255px;
+  font-size: var(--headline-xs-desktop-semibold-size);
+  color: var(--color-black);
+}
+.firefly-personalized-recommend,
+.firefly-wellness-tips-written {
+  position: absolute;
+  top: 298px;
+  left: 1435px;
+  border-radius: 128px;
+  width: 258px;
+  height: 256px;
+  object-fit: cover;
+}
+.firefly-wellness-tips-written {
+  top: 1214px;
+  left: 889px;
+  border-radius: 118.5px;
+  width: 249px;
+  height: 237px;
+}
+.firefly-secure-data-handling-o-parent {
+  position: absolute;
+  top: 1131px;
+  left: -36px;
+  width: 1995px;
+  height: 1967px;
+  font-size: var(--font-size-15xl-3);
+}
+.our,
+.special-services {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.special-services {
+  left: 192px;
+  background: linear-gradient(90.29deg, #20bdbf, #0029ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.group-div,
+.our-parent {
+  position: absolute;
+  width: 944px;
+  height: 135px;
+}
+.our-parent {
+  top: 0;
+  left: 0;
+  opacity: 0.9;
+}
+.group-div {
+  top: 3352px;
+  left: 506px;
+  text-align: center;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gray-600);
+}
+.mask-group-icon {
+  position: absolute;
+  top: 251px;
+  left: 1072px;
+  width: 728px;
+  height: 712.32px;
+  object-fit: cover;
+}
+.desktop-6-child1,
+.desktop-6-child2 {
+  position: absolute;
+  top: 310.25px;
+  left: 1133.95px;
+  width: 491.29px;
+  height: 727.75px;
+  object-fit: cover;
+}
+.desktop-6-child2 {
+  top: 3753px;
+  left: 1161px;
+  width: 605px;
+  height: 569px;
+}
+.desktop-6-child3,
+.frame-div {
+  position: absolute;
+  top: 4306px;
+  left: 100px;
+  width: 123px;
+}
+.desktop-6-child3 {
+  top: 4281px;
+  left: 413px;
+}
+.desktop-6-child4,
+.our-eye-flu {
+  position: absolute;
+  top: 4242px;
+  left: 120px;
+  width: 249px;
+  height: 73px;
+}
+.our-eye-flu {
+  top: 255px;
+  left: 105px;
+  line-height: 126%;
+  display: inline-block;
+  width: 367px;
+  height: 225px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 107px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #4cd3d8, #03779c);
+  width: 187px;
+  height: 183px;
+}
+.eye-flue-test {
+  position: absolute;
+  top: 189px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  color: var(--color-darkslateblue);
+  text-align: center;
+  width: 404px;
+  height: 60px;
+}
+.firefly-eye-flue-red-eye-vecto {
+  position: absolute;
+  top: 39px;
+  left: 148px;
+  border-radius: var(--br-31xl);
+  width: 105px;
+  height: 105px;
+  object-fit: cover;
+}
+.our-eye-flu-test-is-a-quick-an-parent {
+  position: absolute;
+  top: 3876px;
+  left: 13px;
+  width: 472px;
+  height: 480px;
+  font-size: var(--headline-xs-desktop-semibold-size);
+  color: var(--color-black);
+}
+.desktop-6-child5 {
+  position: absolute;
+  top: 4167px;
+  left: 591px;
+  width: 198px;
+  height: 58px;
+}
+.desktop-6-child6 {
+  position: absolute;
+  top: 4251px;
+  left: 589px;
+  width: 249px;
+  height: 73px;
+}
+.using-the-simple {
+  margin-block-start: 0;
+  margin-block-end: 15px;
+}
+.using-the-simple-container {
+  position: absolute;
+  top: 4125px;
+  left: 583px;
+  font-size: var(--headline-xs-desktop-semibold-size);
+  line-height: 126%;
+  color: var(--color-black);
+  display: inline-block;
+  width: 367px;
+  height: 225px;
+}
+.desktop-6-child7 {
+  position: absolute;
+  top: 3876px;
+  left: 583px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #4cd3d8, #03779c);
+  width: 187px;
+  height: 183px;
+}
+.test-analysis {
+  position: absolute;
+  top: 4065px;
+  left: 480px;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  text-align: center;
+  width: 404px;
+  height: 60px;
+}
+.firefly-medical-test-analysis {
+  position: absolute;
+  top: 3913px;
+  left: 621px;
+  border-radius: var(--br-31xl);
+  width: 107px;
+  height: 107px;
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: 291px;
+  left: 103px;
+  width: 198px;
+  height: 58px;
+}
+.fast-and-efficient-container {
+  position: absolute;
+  top: 247px;
+  left: 95px;
+  line-height: 126%;
+  display: inline-block;
+  width: 367px;
+  height: 225px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180deg, #4cd3d8, #03779c);
+  width: 187px;
+  height: 183px;
+}
+.quick-bmi-test-container {
+  position: absolute;
+  top: 188px;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  color: var(--color-darkslateblue);
+  text-align: center;
+  width: 404px;
+  height: 60px;
+}
+.bmi-test-1-icon {
+  position: absolute;
+  top: 31px;
+  left: 128px;
+  border-radius: 61.5px;
+  width: 121px;
+  height: 121px;
+  object-fit: cover;
+}
+.frame-parent {
+  position: absolute;
+  top: 4371px;
+  left: 21px;
+  width: 462px;
+  height: 472px;
+  font-size: var(--headline-xs-desktop-semibold-size);
+  color: var(--color-black);
+}
+.group-child4,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.line-div {
+  top: 5056.94px;
+  left: 309.27px;
+  box-shadow: 0 4.708333492279053px 7.06px rgba(151, 151, 151, 0.08);
+  border-top: 0.8px solid var(--color-aliceblue);
+  width: 367.85px;
+  height: 0.85px;
+}
+.group-child4 {
+  top: -20px;
+  left: -20px;
+  border-radius: var(--br-26xl) 232px var(--br-3xs) var(--br-3xs);
+  background: linear-gradient(180deg, #50d8db, #05799d 38.02%, #007299);
+  border: 20px solid var(--base-white);
+  width: 595px;
+  height: 855px;
+}
+.desktop-6-inner1 {
+  position: absolute;
+  top: 4974px;
+  left: 58px;
+  box-shadow: 0 10px 80px rgba(0, 145, 193, 0.5);
+  width: 555px;
+  height: 815px;
+}
+.whatsapp-image-2023-08-23-at-0 {
+  position: absolute;
+  top: 5061px;
+  left: 77px;
+  border-radius: var(--br-7xl) var(--br-26xl) var(--br-7xl) var(--br-7xl);
+  width: 469px;
+  height: 708px;
+  object-fit: cover;
+}
+.ai-doctor {
+  position: absolute;
+  top: 99px;
+  left: 482px;
+  background: linear-gradient(90.29deg, #20bdbf, #0029ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.get-started-with-your-parent {
+  position: absolute;
+  top: 4950px;
+  left: 770px;
+  width: 973px;
+  height: 234px;
+  text-align: center;
+  font-size: var(--font-size-71xl);
+  color: var(--color-gray-600);
+}
+.get-things-asked,
+.prioritize-your-health-container {
+  position: absolute;
+  top: 5253px;
+  left: 743px;
+  font-size: 35px;
+  line-height: 160%;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 620px;
+  height: 204px;
+}
+.prioritize-your-health-container {
+  top: 5694px;
+  left: 900px;
+  font-size: 55px;
+  line-height: 107%;
+  font-family: var(--font-m-plus-2);
+  text-align: center;
+  width: 735px;
+  height: 123px;
+}
+.try-free-consultation-container,
+.try-free-consultation-frame {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 5452px;
+  left: 737px;
+  border-radius: var(--br-7xl);
+  background: linear-gradient(
+    -89.91deg,
+    #0023d8,
+    #0a9786,
+    #0b8975 0.01%,
+    #0a9988 1.29%,
+    #04d9d3 53.9%,
+    #01efed 84.15%,
+    #0ff
+  );
+  box-shadow: 0 4.708333492279053px 7.06px rgba(1, 115, 153, 0.2);
+  width: 418px;
+  height: 72px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.try-free-consultation-frame {
+  top: 5539px;
+  left: 739px;
+}
+.desktop-6 {
+  position: relative;
+  background-color: var(--base-white);
+  width: 100%;
+  height: 6500px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-poppins);
+}
